@@ -1,0 +1,6 @@
+pandas  =  " to read the csv file dataset "
+tensorflow = "Helps you implement best practice for data automation, model tracking, performance monitoring and model training" 
+nltk = "Natural Language Tool Kit" - "Understand the human Language through NLP" - "Provides various text Processings libraries with a various test datasets"
+numpy = "Numpy is used to perform Mathematics operations"
+sklearn = "Contains a lot of tools for Machine Learning and statistical modeling and including Classification, Regression, Clustering and Dimensionality Reduction"
+matplotlib = "to Perform Data Visualization like to plotting, charts and graphs"
